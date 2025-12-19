@@ -1,5 +1,3 @@
-# Yoruba to English Dictionary
-
 yoruba_dict = {
     "bawo": "hello",
     "e kaaro": "good morning",
