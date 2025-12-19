@@ -1,1 +1,27 @@
+yoruba_dict = {
+    "bawo": "hello",
+    "e kaaro": "good morning",
+    "e kaasan": "good afternoon",
+    "e kaale": "good evening",
+    "baba": "father",
+    "odabo": "goodbye",
+    "bimo": "child",
+    "iya": "mother",
+    "ore": "friend",
+    "ife": "love",
+    "ounje": "food",
+    "omi": "water",
+    "ile": "house",
+    "ile-iwe": "school",
+    "owo": "money",
+    "ayo": "joy",
+    "asun": "sleep",
+    "ajo": "journey",
+    "ase": "power",
+    "imole": "light"
+}
 
+print("bawo:", yoruba_dict["bawo"])
+print("iya:", yoruba_dict["iya"])
+print("omi:", yoruba_dict["omi"])
+print("ile:", yoruba_dict["ile"])
