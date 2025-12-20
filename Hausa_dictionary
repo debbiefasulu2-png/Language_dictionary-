@@ -1,1 +1,21 @@
-
+hausa_dict = {
+    "hello": "sannu",
+    "water": "ruwa",
+    "bread": "burodi",
+    "food": "abinci",
+    "house": "gida",
+    "come": "zo",
+    "go": "je",
+    "eat": "ci",
+    "drink": "sha",
+    "sleep": "barci",
+    "school": "makaranta",
+    "book": "littafi",
+    "market": "kasuwa",
+    "money": "kudi",
+    "road": "hanya",
+    "father": "uba",
+    "mother": "uwa",
+    "friend": "aboki",
+    "name": "suna",
+    "thank you": "na gode"}
